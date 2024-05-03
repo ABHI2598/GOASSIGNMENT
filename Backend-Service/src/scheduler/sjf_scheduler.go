@@ -3,7 +3,7 @@ package scheduler
 import (
 	"time"
 
-	"github.com/ABHI2598/Backend-Service/src/models"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/models"
 )
 
 // SJFScheduler implements the Shortest Job First (SJF) scheduling algorithm.

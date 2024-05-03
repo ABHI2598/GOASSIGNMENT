@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ABHI2598/Backend-Service/src/models"
-	"github.com/ABHI2598/Backend-Service/src/scheduler"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/models"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/scheduler"
 )
 
 // JobHandler handles HTTP requests related to jobs.

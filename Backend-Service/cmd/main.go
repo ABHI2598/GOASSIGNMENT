@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/ABHI2598/Backend-Service/src/server"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/server"
 )
 
 func main() {

@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/ABHI2598/Backend-Service/src/handlers"
-	"github.com/ABHI2598/Backend-Service/src/scheduler"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/handlers"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/scheduler"
 )
 
 // Server represents the HTTP server.

@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/ABHI2598/Backend-Service/src/models"
+	"github.com/ABHI2598/GOASSIGNMENT/Backend-Service/src/models"
 )
 
 // WebSocketHandler handles WebSocket connections.
