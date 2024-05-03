@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  go-backend:
+    build:
+      context: ./Backend-Service
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+
+  react-frontend:
+    build:
+      context: ./react-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
